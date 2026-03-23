@@ -14,7 +14,7 @@ Kensei-1.1
 核心功能：飞天，加速，传送，穿墙，冻结，无限连跳。
 客户端版本：WoW client 12340
 ```
-<a href="https://github.com/geektcp/Kensei/releases" target="_blank">下载2</a>
+<a href="https://github.com/geektcp/Kensei/releases" target="_blank">下载</a>
 
 ## 交流
 <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lUPEtyE55iYo5LxuCLWPfwYCc0KJ-12A&authKey=V5OyPonKbW7ZLuUc52yaIqNBUjVDthYfFMLYH701gm7hTXVsX57XunVls77UbbuX&noverify=0&group_code=153459822" target="_blank">技术交流QQ群： 153459822</a>
