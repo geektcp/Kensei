@@ -23,4 +23,4 @@ Kensei-1.1
 
 
 ## 界面
-![登录入口](https://github.com/geektcp/Kensei/blob/master/screen/Kensei.png)
+![登录入口](https://github.com/geektcp/Kensei/blob/main/screen/Kensei.png)
