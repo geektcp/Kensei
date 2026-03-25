@@ -20,3 +20,7 @@ Kensei-1.1
 
 ## 交流
 <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lUPEtyE55iYo5LxuCLWPfwYCc0KJ-12A&authKey=V5OyPonKbW7ZLuUc52yaIqNBUjVDthYfFMLYH701gm7hTXVsX57XunVls77UbbuX&noverify=0&group_code=153459822" target="_blank">技术交流QQ群： 153459822</a>
+
+
+## 界面
+![登录入口](https://github.com/geektcp/Kensei/blob/master/screen/Kensei.png)
